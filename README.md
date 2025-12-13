@@ -22,9 +22,4 @@ All implementations are written in **Jupyter Notebook format** for interactive l
 
 ---
 
-## ⚙️ Setup Instructions
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/omkarnigade21/Pytorch_basics.git
-cd Pytorch_basics
